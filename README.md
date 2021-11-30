@@ -26,7 +26,7 @@ To-do list:
 
 ## Data Cleaning
 Cleaned yelp_data_file.csv
-1. Price data was missing in the column title and some entries. Reorganized columns "location", "phone", "display_phone", "distance".
+1. Price data was missing in some entries. Reorganized columns "location", "phone", "display_phone", "distance".
 2. Aggregated yelp data by region. 
 
 Cleaned population data
