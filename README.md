@@ -25,7 +25,7 @@ To-do list:
 3. Chicago Population Counts dataset: from [Chicago City Data Portal](https://data.cityofchicago.org/Health-Human-Services/Chicago-Population-Counts/85cm-7uqa), data stored in `Chicago_Population_Counts.csv`
 
 # Data Cleaning
-Cleaned yelp_data_file.csv
+Cleaned `yelp_data_file.csv`
 1. Price data was missing in some entries. Reorganized columns "location", "phone", "display_phone", "distance".
 2. Aggregated yelp data by region. 
 
